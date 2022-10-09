@@ -4,4 +4,4 @@ WORKDIR /appt
 ADD . .
 
 
-ENTRYPOOINT ["./hello.sh"]
+ENTRYPOINT ["./hello.sh"]
