@@ -1,5 +1,5 @@
 FROM alpine
-mkdir /appt
+RUN mkdir /appt
 WORKDIR /appt
 ADD . .
 
