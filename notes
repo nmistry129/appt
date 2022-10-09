@@ -1,0 +1,1 @@
+curl -I -u nmistry12:11e891d43134918d79aa547f8bdb8ceacd "http://localhost:8080/job/gitappt/buildWithParameters?token=NILAXI123"
